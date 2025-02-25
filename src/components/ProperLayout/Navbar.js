@@ -18,7 +18,7 @@ const NavBar = () => {
               <Link to="/" className="border-green-500 text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                 Home
               </Link>
-              <Link to="/how-it-works" className="border-transparent text-gray-300 hover:border-green-300 hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
+              <Link to="/HowItWorks" className="border-transparent text-gray-300 hover:border-green-300 hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                 How It Works
               </Link>
               <Link to="/features" className="border-transparent text-gray-300 hover:border-green-300 hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
@@ -76,7 +76,7 @@ const NavBar = () => {
           <Link to="/" className="bg-gray-900 border-green-500 text-white block pl-3 pr-4 py-2 border-l-4 text-base font-medium">
             Home
           </Link>
-          <Link to="/how-it-works" className="border-transparent text-gray-300 hover:bg-gray-800 hover:border-green-300 hover:text-white block pl-3 pr-4 py-2 border-l-4 text-base font-medium">
+          <Link to="/HowItWorks" className="border-transparent text-gray-300 hover:bg-gray-800 hover:border-green-300 hover:text-white block pl-3 pr-4 py-2 border-l-4 text-base font-medium">
             How It Works
           </Link>
           <Link to="/features" className="border-transparent text-gray-300 hover:bg-gray-800 hover:border-green-300 hover:text-white block pl-3 pr-4 py-2 border-l-4 text-base font-medium">

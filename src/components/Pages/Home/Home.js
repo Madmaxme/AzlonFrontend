@@ -2,7 +2,7 @@ import React from 'react';
 import Hero from './Hero';
 import WhatIsAzlon from './WhatIsAzlon';
 import Features from './Features';
-import HowItWorks from './HowItWorks';
+import HomeHowItWorks from './HomeHowItWorks';
 import TargetUsers from './TargetUsers';
 
 const HomePage = () => {
@@ -11,7 +11,7 @@ const HomePage = () => {
       <Hero />
       <WhatIsAzlon />
       <Features />
-      <HowItWorks />
+      <HomeHowItWorks />
       <TargetUsers />
     </div>
   );
